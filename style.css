@@ -1,0 +1,23 @@
+#logo{
+    width:200px;
+    border-radius:50px;
+}
+
+#text-box{
+    width:300px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align: center;
+    color: black;
+    font-size:30px;
+}
+
+#btn{
+    margin:20px;
+}
+
+#camera , #result{
+    width:360px;
+    height:250px;
+    border:1px solid red;
+}
